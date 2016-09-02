@@ -8,8 +8,9 @@ You should spend about 20 minutes on this task.
 
 Write at least 150 words.
 
-![alt tag](https://cloud.githubusercontent.com/assets/16638078/18208689/db189f12-7106-11e6-8935-2489a681dd66.png)
+![alt tag](https://cloud.githubusercontent.com/assets/16638078/18208689/db189f12-7106-11e6-8935-2489a681dd66.png?raw=true "Number of people employed in a european country by age and gender, 2013")
 
+Source: http://solutionoptimist.com/2013/12/28/awesome-github-tricks/
 
 | Age (years)	| Males (thousands)	| Females (thousands)
 | --- | --- | --- |
@@ -28,7 +29,7 @@ Write at least 150 words.
 
 ----
 
-#WRITING TASK 1 - My Answer
+##WRITING TASK 1 - My Answer
 
 The graph shows the number of employees in an european country, clasificaded by age and gender, in witch shows that in almost any age the companies employ more male than female workers. In the graph, is shown algo that the highest trend of age for male to be employeed happens a little earlier that female, even with fact that both gender reach theirs peak at exactly the same age, witch is between 40 and 44 years old. A peculiar behaviour is present on the very first age in the chart, the age between 15 and 19, where the women are more employeed than men, and that is because the very nature of the female gender, more mature and responsable at a early stage in the life. Another relevant fact, is the gender gap (that is the difference between the employees of both genders), in the chart you can see that male reach the band of five houndred thousend employees in 5 age, but female never reach that band, that shows a bad pratice in the working industry about gender equiality.
 
@@ -36,7 +37,7 @@ The graph shows the number of employees in an european country, clasificaded by 
 
 ----
 
-#WRITING TASK 1 - Sample Answer
+##WRITING TASK 1 - Sample Answer
 
 
 The chart gives information about employment in terms of age and sex in a European country in 2013.
@@ -63,7 +64,7 @@ What solutions can you suggest?
 
 ---
 
-#WRITING TASK 2 - My Answer
+##WRITING TASK 2 - My Answer
 
 In my opinion, the gap between the rich and the poor is widening because of several reasons, but the most important is the education that the poor is recieving is even worst than before, and is almost designed to prevent that the poor can break the poverty cicle.
 
@@ -79,7 +80,7 @@ So, it is my opinion that the growing gap between poor and rich, is because bad 
 
 ---
 
-#WRITING TASK 2 - Sample Answer
+##WRITING TASK 2 - Sample Answer
 
 
 Economic prosperity has been a feature of many countries over the last half century. This has, on the whole, raised the standard of living and reduced the numbers of people who would be considered destitute, and may have led to a redefinition of poverty. However, within those countries, the difference between the poorest and wealthiest citizens has increased. This essay will outline some of the possible causes and some suggested solutions to this situation.
@@ -92,3 +93,55 @@ Overall, society is more materialistic than ever and this need to acquire has dr
 
 **(274 words)**
 
+---
+
+##Task 1 self-assessment checklist
+Remember, the examiner who marks your paper for Task 1 will focus on four main areas:
+* Task Achievement - how appropriately, accurately and relevantly you complete the task using at least 150 words
+* Coherence and cohesion – your ability to write a clear, logically organised answer that is easy for the reader to follow and understand
+* Lexical resource – your ability to accurately and appropriately use a range and variety of vocabulary and expressions to complete the task.
+* Grammatical range and accuracy – your ability to accurately and appropriately use a range of grammar structures to complete the task.
+
+###Task Achievement
+* Did I write approximately 150 words? 
+* Did I include a clear overview of the topic? 
+* Did I cover all the key features of the visual? 
+
+###Coherence and Cohesion
+* Did I divide my answer into paragraphs where necessary? 
+* Did I use linkers effectively to show relationships between ideas? 
+
+###Lexical Resource
+* Did I have enough vocabulary to describe this visual? 
+* Did I use accurate spelling? 
+
+###Grammatical Range and Accuracy
+* Did I produce many error-free sentences? 
+* Did I use a range of sentence structures? 
+ 
+
+##Task 2 Self-assessment checklist
+Remember, the examiner who marks your paper in Task 2 will focus on four main areas:
+* Task Response - your ability to answer the question and write a relevant response with a clear central argument or position using at least 250 words.
+* Coherence and Cohesion – your ability to organise your ideas logically and clearly and use paragraphs appropriately and sufficiently.
+* Lexical Resource - your ability to accurately and appropriately use a range and variety of vocabulary and expressions to complete the task
+* Grammatical Range and Accuracy - your ability to accurately and appropriately use a range of grammar structures to complete the task.
+
+###Task Response
+* Did I write approximately 250 words?
+* Did I answer all parts of the question?
+* Did I develop a clear central argument? 
+* Did I support my main points with reasons and examples? 
+
+###Coherence and Cohesion
+* Did my essay have an introduction, body paragraphs, and a conclusion? 
+* Did each paragraph have one clear main idea? 
+* Did I use linkers effectively to show relationships between ideas? 
+
+###Lexical Resource
+* Did I have enough vocabulary to talk about this topic? 
+* Did I use accurate spelling? 
+
+###Grammatical Range and Accuracy
+* Did I produce many error-free sentences? 
+* Did I use a range of sentence structures? 
