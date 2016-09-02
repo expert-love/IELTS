@@ -8,7 +8,7 @@ You should spend about 20 minutes on this task.
 
 Write at least 150 words.
 
-https://cloud.githubusercontent.com/assets/16638078/18208689/db189f12-7106-11e6-8935-2489a681dd66.png
+![alt tag](https://cloud.githubusercontent.com/assets/16638078/18208689/db189f12-7106-11e6-8935-2489a681dd66.png)
 
 
 | Age (years)	| Males (thousands)	| Females (thousands)
