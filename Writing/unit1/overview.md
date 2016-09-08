@@ -36,6 +36,8 @@ In task 1, you recieve:
 * grammatical range and accuracy
 * the ability of answer the question
 
-__Task 1__ is a description of a visual so you will be marked on task achievement, or how appropriately, accurately and relevantly you complete the task using at least 150 words.
+__Task 1__ is a description of a visual so you will be marked on __task achievement__, or how appropriately, accurately and relevantly you complete the task using at least 150 words.
 
-In __Task 2__, on the other hand, you need to write an academic essay, so you will be marked on your task response. Here the examiner will be looking to see how well you can make and develop your position or argument and how you support it with evidence and examples, to complete the task using at least 250 words.
+In __Task 2__, on the other hand, you need to write an academic essay, so you will be marked on your __task response__. Here the examiner will be looking to see how well you can make and develop your position or argument and how you support it with evidence and examples, to complete the task using at least 250 words.
+
+###Difference between __task achievement__ and __task response__
