@@ -56,4 +56,52 @@ To write the response, first you would describe one graph, and then the other. A
 would write one or two sentences to show how they are related. We’ll look at this more
 closely later in the unit.
 
+###Other resource
+[Link Text] (https://www.youtube.com/watch?v=CK_PE9ILJjQ)
+
+* You should write 170 - 190 words
+* Introduction: 1 or 2 sentences, if you write more your are talking too much.
+* The introduction should focus on "what i am lookking at?"
+* Never should use the words: I, me, we (this taks is about the visual, not about the writer)
+* No opinions, no conclusion, no analysis, no explanation
+* Just provide facts, no meaning of the facts
+* This is an English test, not an inteligence test, you do not need to understand what information is provided.
+* Keep it simple (special the introduction)
+* Again __No conclusion!!!__
+
+###Report Body
+* Pay attention to your axes, the units, the range
+* Mention peaks and valleys, or the stability, or the __plateau__
+* Look for patterns, trends but keep it general
+* Then, look for the anomalies (or exceptions), and give some details
+* If you have __Tables__, pay attention of the heading 
+* If you are looking at a __Diagram__, indentify the start, the finish, and the major steps (milestone)
+* When you are comparing, look for similarities and differences but spend more time in the differences
+
+###How split your paragraphs
+* There is no rule, you have to figure it out
+* A good idea is to have 2 or 3 paragraphs, where the first is for a brief introduction
+* __If you have one chart__, you can take one paragraph for the trends and the other for the anomalies
+* Or you can focus on one thing (item of the visual), and leave the other paragraph for the other item
+* __If you have two charts__, first paragraph talk about chart one, and in the second one talk about the other chart
+* Or, you can talk about the similarities on the first paragraph and then talk about the major differences. Here you have to make so sort of connetion, but dont go beyond the informatcion given to you
+* If you have a __Diagram__ or a __Flow chart__, you can explain everthing in just one paragraphs
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
