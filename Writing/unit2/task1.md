@@ -57,7 +57,7 @@ would write one or two sentences to show how they are related. We’ll look at t
 closely later in the unit.
 
 ###Other resource
-[Link Text] (https://www.youtube.com/watch?v=CK_PE9ILJjQ)
+[IELTS Writing Task 1 - What to write!] (https://www.youtube.com/watch?v=CK_PE9ILJjQ)
 
 * You should write 170 - 190 words
 * Introduction: 1 or 2 sentences, if you write more your are talking too much.
@@ -88,8 +88,37 @@ closely later in the unit.
 * If you have a __Diagram__ or a __Flow chart__, you can explain everthing in just one paragraphs
 
  
+--
 
+###SUMMARY: HOW TO DO TASK 1 QUESTIONS
 
+Task 1 questions always have the same parts. Here is an example:
+
+> You should spend about 20 minutes on this task.
+>
+> The chart below show total numbers of visitor to Australia as well as the tourist revenue received from six countries.
+>
+> Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
+>
+> Write at least 150 words
+
+The first part of the question reminds you, you should spend about 20 minutes writing
+your response; and the last part here reminds you that you need to write at least 150 words.
+
+___There are always two other paragraphs___. The first one will give you a sentence about the
+visual or visuals that you are going to describe.
+
+The next paragraph tells you what you have to do. It will contain one or more verbs.
+
+* ___Step 1___: Read the instructions carefully.
+
+* ___Step 2___: Check the time that you begin Writing Task 1 and allow 20 minutes only.
+
+* ___Step 3___: Read the first paragraph and quickly scan the visual(s).
+
+* ___Step 4___: Read the second paragraph and underline the verbs. These tell you what to write about.
+
+* ___Step 5___: Write your response in at least 150 words.
 
 
 
