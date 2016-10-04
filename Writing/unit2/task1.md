@@ -122,15 +122,45 @@ The next paragraph tells you what you have to do. It will contain one or more ve
 
 
 
+###UNDERSTANDING TASK 1 QUESTIONS PRACTICE: VISUAL 1
+
+Read the writing task below and study the visual carefully:
+
+![TASK 1 - VISUAL 1](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/c031e5c4dc408a6eb71c7042b40c1d73/asset-v1:UQx+IELTSx+3T2015+type@asset+block/Writing_-_understanding_task_1_qs_-_global_electricity_writing_task.PNG)
+
+___Now you will need to summarise the visual by completing the sentence below___. Try to paraphrase the language used 
+in the question rubric (when you can), rather than copying it word-for-word.
 
 
 
+###UNDERSTANDING TASK 1 QUESTIONS PRACTICE: VISUAL 2
+
+Read the writing task below and study the visual carefully:
+
+![TASK 1 - VISUAL 2](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/dec1d7805f042cb19359e99ca546e6f7/asset-v1:UQx+IELTSx+3T2015+type@asset+block/Writing_-_understanding_task_1_qs_-_home_injuries_writing_task.PNG)
+
+___Now you will need to summarise the visual by completing the sentence below___. Remember, try to paraphrase the language 
+used in the question rubric (when you can), rather than copying.
+
+
+###UNDERSTANDING TASK 1 QUESTIONS PRACTICE: VISUAL 3
+
+Read the writing task below and study the visual carefully:
+
+![TASK 1 - VISUAL 3](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/2175ca8316b373bc80586b580aa51284/asset-v1:UQx+IELTSx+3T2015+type@asset+block/Writing_-_understanding_task_1_qs_-_transport_use_writing_task.PNG)
+
+___Now you will need to summarise the visual by completing the sentence below___. Remember, try to paraphrase the language 
+used in the question rubric (when you can), rather than copying.
 
 
 
+###UNDERSTANDING TASK 1 QUESTIONS PRACTICE: VISUAL 4
 
+Read the writing task below and study the visual carefully:
 
+![TASK 1 - VISUAL 4](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/89b791eb7ba204d5b41444000fffa0bb/asset-v1:UQx+IELTSx+3T2015+type@asset+block/Writing_-_understanding_task_1_qs_-_acid_rain_writing_task.PNG)
 
-
+___Now you will need to summarise the visual by completing the sentence below___. Remember, try to paraphrase the language 
+used in the question rubric (when you can), rather than copying.
 
 
