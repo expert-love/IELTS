@@ -164,3 +164,58 @@ ___Now you will need to summarise the visual by completing the sentence below___
 used in the question rubric (when you can), rather than copying.
 
 
+###Topic and Overview
+
+Two important things you need to include in your Task 1 answer; a sentence to introduce the topic of the visual, and an overview. 
+
+###Topic
+To begin your answer, you need to write one or two sentences that introduce the general
+topic of the visual and explain the type of information that it shows. 
+
+Therefore, to introduce the general topic
+of the visual, and explain the type of information that it shows, you need to paraphrase the description given in the question.
+Here, by paraphrasing, the candidate has shown the examiner that they have understood the
+information correctly and that they have some range in terms of ___vocabulary___ and ___grammar___.
+
+Think about ways that you could paraphrase this sentence
+Instead of the word ‘chart’, you could use ‘graph’. Instead of ‘shows’, you
+could use ‘illustrates’, ‘gives an overview of’, or ‘gives information about’. Instead
+of ‘proportions’, you could use ‘percentages’. And finally, instead of the word ‘annually’,
+you could use 'in one year’.
+
+
+###Overview
+* one or two
+* describes the main trend(s)
+* at the beginning (after the introductory sentence) or at the end
+* It so important, that maybe is a good idea to write it at the beginning.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
