@@ -42,3 +42,24 @@ Write an essay, a short piece or writting written in formal language with a clea
 * The final paragragh is your ___Conclusion__, in which you sum up your main points and re-state your position.
 
 
+###Exmaple Writing Task 2
+
+    You should spend about 40 minutes on this task.
+    Write about the following topic:
+    
+    Hosting an international sporting event can cost a city millions of dollars. Why is it then, that so many cities compete to host international sporting events such as the Olympics Games and the football World Cup?
+    
+    Give reasons for your answers and include any relevant examples from your own knowledge or experience.
+    
+    Write at least 250 words.
+
+
+####Introduction
+
+These days, the most famous and popular __global events__ are __sporting competitions, such as the Olympics Games and the 
+football World Cup__. In these events, people from all over the world compete against each other to win honours for 
+themselves and their countries. Naturally, because the __international competitions__ involve so many people, they are 
+very large and complex events. This means that they are also very expensive to host. Despite this expense, however, 
+__competition to host these events__ is very fierce, for varios reasons.
+
+
