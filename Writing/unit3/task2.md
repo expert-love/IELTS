@@ -84,5 +84,29 @@ heard about the city or country which hosted the event.
 ___In conclusion___, it is benefits such as these which encourage governments and city officials to apply to host international 
 sporting events. This is despite the expense involved in holding these competitions.
 
+[concluding linker](https://sites.google.com/site/maycaingles2011/writing/linkers-and-connectors)
+
+###Assessment
+* ___Task Response___: How well you answered your question. Your essay should address the question and have a clear position 
+supported by reasons and examples.
+* ___Coherence and Cohesion___: That your essay is organised logically and has a clear structure, with an introduction, a 
+body and a conclusion
+* ___Lexical Resource___: Your ability to use a range of vocabulary accurately and appropriately. Use of __Synonyms__
+* ___Gramamatical Range and Accuracy___: How well you can use english grammar. Example: __Passive voice__, __complex sentences__.
+
+###How to do this task
+* Read the question carefully. Note the topic and the task. How many parts are there to the question.
+* Think about your response to the question. What is your position?
+* Note down some ideas. Choose two or three main ideas that you will use to support your position.
+* Make a brief essay plan. Plan to write 4-5 paragraphs (1 => Introduction, 2 or 3 => body, 1 => conclusion).
+* Write your essay. Write at least 250 words. Try to use a range of grammar and vocabulary and try to be as accurate as you can.
+* Allow a minute or two to read over your answer and check it before handing it in.
+
+
+
+
+
+
+
 
 
