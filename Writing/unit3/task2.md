@@ -47,7 +47,8 @@ Write an essay, a short piece or writting written in formal language with a clea
     You should spend about 40 minutes on this task.
     Write about the following topic:
     
-    Hosting an international sporting event can cost a city millions of dollars. Why is it then, that so many cities compete to host international sporting events such as the Olympics Games and the football World Cup?
+    Hosting an international sporting event can cost a city millions of dollars. Why is it then, that so many 
+    cities compete to host international sporting events such as the Olympics Games and the football World Cup?
     
     Give reasons for your answers and include any relevant examples from your own knowledge or experience.
     
@@ -61,5 +62,27 @@ football World Cup__. In these events, people from all over the world compete ag
 themselves and their countries. Naturally, because the __international competitions__ involve so many people, they are 
 very large and complex events. This means that they are also very expensive to host. Despite this expense, however, 
 __competition to host these events__ is very fierce, for varios reasons.
+
+
+####Body Paragraph
+
+__The first and most important reason why___ cities compete to host international sporting events is prestige. Governments and city 
+officials are aware that hosting a large international sporting event will lift a city's profile and give that city a lot of positive 
+publicity. For example, when Sydney hosted the 2000 Olympic Games, journalists from all over the world came to Australia. As well as 
+writing o talking about the Olympics events, these journalist also montioned the host city and the host country. This resulted in a 
+lot o free, positive publicity for Sydney and Australia. Therefore, governments hope that hosting an international event will result 
+in favourable media coverage and greater prestige for the host city and country.
+
+####Body Paragraph 2
+Related to this first reason is another benefit of hosting an international sporting event, and that is, tourism. Governmets 
+hope to attract more tourist and increase earnings from tourism. This can be seen in the short-term, with an increase in 
+visitors attending the sporting event itself, and later, with an increased number of tourists visiting because the have 
+heard about the city or country which hosted the event.
+
+
+###Conclusion
+___In conclusion___, it is benefits such as these which encourage governments and city officials to apply to host international 
+sporting events. This is despite the expense involved in holding these competitions.
+
 
 
