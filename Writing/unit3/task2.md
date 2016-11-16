@@ -145,19 +145,23 @@ See also:
 
 ####Read the following writing task:
 
-[Read the following writing task:](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/fa5bd8f884c381c3e1bc6c15bc20c7c2/asset-v1:UQx+IELTSx+3T2015+type@asset+block/Writing_-_paragraph_structure_writing_task_2_-_travel.PNG)
+![Read the following writing task:](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/fa5bd8f884c381c3e1bc6c15bc20c7c2/asset-v1:UQx+IELTSx+3T2015+type@asset+block/Writing_-_paragraph_structure_writing_task_2_-_travel.PNG)
 
 ####Now complete the following activity below.
 
 Using your mouse, highlight the text which you think is the topic sentence in the paragraph below. Then, highlight the supporting sentences.
 
-One of the most important benefits of taking a year off between high school and university is that it can help you to make the transition to adulthood. If you choose to travel, for example, being away from your family in a foreign country forces you to grow up quickly. It is up to you to get to the airport on time, or find a place to stay for the night, as your parents are not there to do these things for you.
+    One of the most important benefits of taking a year off between high school and university 
+    is that it can help you to make the transition to adulthood. If you choose to travel, for 
+    example, being away from your family in a foreign country forces you to grow up quickly. It 
+    is up to you to get to the airport on time, or find a place to stay for the night, as your 
+    parents are not there to do these things for you.
 
 ###ORDERING SENTENCES
 
 ####Read the following writing task:
 
-    __Writing Task 2.__
+    Writing Task 2.
     
     You should spend about 40 minutes on this task. 
     
