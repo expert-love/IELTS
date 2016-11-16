@@ -102,8 +102,40 @@ body and a conclusion
 * Write your essay. Write at least 250 words. Try to use a range of grammar and vocabulary and try to be as accurate as you can.
 * Allow a minute or two to read over your answer and check it before handing it in.
 
+--
+--
 
+###Paragraph Structure
 
+[Paragraph Structure](https://youtu.be/rE6zJ8_muhw)
+
+1. A paragraph should contain one ___central idea___. This main idea should come in your first sentence, the topic sentence. Should be a general statement (not too specific).
+2. Then develop the idea in the paragraph with about 3 supporting sentences. This sentences may give reasons, examples, effects, or details.
+3. A concluding sentence (optional), at the end of the paragraph, which sums up the main idea, is like a re-statement of your topic sentence.
+
+Example:
+```diff
++Generally speaking, it is many years later that people appreciate their education. 
+For example, people who can read might have found it boring to learn this skill when they were children. 
+Also, we cannot be sure of the future benefits of studying certains subjects. 
+In my case, I regretted not having studied some natural science in high school after I realised 
+that I would have to study statistics and mathematics ar university.
+-Therefore, it is often later in life that the importance of a good education is realised.
+
++Green: Topic Sentence
+Gray: SUpporting Sentence
+-Red: Concluding Sentence
+```
+
+See also: 
+    Linking expression
+
+####Diagram
+* Topic Sentence
+* Supporting Sentence
+* Supporting Sentence
+* Supporting Sentence
+* Concluding Sentence (Optional)
 
 
 
