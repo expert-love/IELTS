@@ -185,3 +185,30 @@ DRAG AND DROP: ORDERING SENTENCES
 --
 
 
+###WRITING INTRODUCTIONS
+
+Read the following writing task:
+
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/b5aca0fa805c5be76968c31b14482993/asset-v1:UQx+IELTSx+3T2015+type@asset+block/Writing_-_introductions_practice_writing_task.PNG)
+
+Now look at how this question is being answered in the introduction below. Hover your mouse over the different colours to see some corresponding messages about what is written.
+
+```diff
++ 1. There is no doubt that modern societies are dangerously reliant upon oil. 
+-The dependency causes serious environmental problems because of pollution and, furthermore, the depletion of finite resources. 
++There are alternative energy sources available to modern societies and there are also lifestyle choices that people can make in order to reduce the damage. 
+-This essay will discuss some of these alternatives and, in addition, the lifestyle changes people could make.
+
++1. Writer's opinion
++2. A sumary of the problem in the writer's own words
++3. A sumary of the alternatives/solutions to the problem
+-4. Thesis statement giving a preview of the direction of the essay
+```
+
+###ORDERING SENTENCES
+
+Read the following writing task:
+
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/3bacb9bd45296065b4fa19c5f69667fa/asset-v1:UQx+IELTSx+3T2015+type@asset+block/Writing_-_introductions_practice_writing_task__ordering_sentences_.PNG)
+
+
