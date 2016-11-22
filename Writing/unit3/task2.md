@@ -212,3 +212,21 @@ Read the following writing task:
 ![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/3bacb9bd45296065b4fa19c5f69667fa/asset-v1:UQx+IELTSx+3T2015+type@asset+block/Writing_-_introductions_practice_writing_task__ordering_sentences_.PNG)
 
 
+--
+--
+
+###Grammar Focus: Complex Sentences
+
+[Grammar Focus: Complex Sentences](https://youtu.be/67Bvzo2J3Ko)
+
+####Sentence Structure
+___Complex sentence___: contains one main / independent clause + one subordinate / dependent clause
+e.g. Although I was tired, I stayed up late studing.
+
+####Two simple sentences:
+Denmark is a Scandinavian country. The people there generate electricity with large wind turbines.
+
+###How to combine into complex sentences
+Denmark is a Scandinavian country ___where___ people there generate electricity with large wind turbines.
+
+Denmark is a Scandinavian country ___which/that___ generate electricity with large wind turbines.
