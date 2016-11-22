@@ -230,3 +230,15 @@ Denmark is a Scandinavian country. The people there generate electricity with la
 Denmark is a Scandinavian country ___where___ people there generate electricity with large wind turbines.
 
 Denmark is a Scandinavian country ___which/that___ generate electricity with large wind turbines.
+
+####Linking words/phrases
+
+1. These word/phrases help you to link your ideas
+2. They show relationships between ideas
+  * Comparasion and contrast
+  * Cause and effect
+  * Additional information
+
+###linking ideas
+
+![linking ideas](https://cloud.githubusercontent.com/assets/16638078/20509319/97d4c594-b046-11e6-948d-6762b7037886.png)
