@@ -128,6 +128,9 @@ Gray: SUpporting Sentence
 ```
 <a><img src="https://github.com/monpeco/IELTS/blob/master/Writing/unit3/TopicSentence.svg"/></a>
 
+<a><img src="https://raw.githubusercontent.com/monpeco/IELTS/master/Writing/unit3/TopicSentence.svg"/></a>
+
+
 
 See also: 
     Linking expression
