@@ -121,11 +121,13 @@ Also, we cannot be sure of the future benefits of studying certains subjects.
 In my case, I regretted not having studied some natural science in high school after I realised 
 that I would have to study statistics and mathematics ar university.
 -Therefore, it is often later in life that the importance of a good education is realised.
-
+10.152.17.129
 +Green: Topic Sentence
 Gray: SUpporting Sentence
 -Red: Concluding Sentence
 ```
+<a><img src="https://github.com/monpeco/IELTS/blob/master/Writing/unit3/TopicSentence.svg"/></a>
+
 
 See also: 
     Linking expression

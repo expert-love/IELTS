@@ -2,7 +2,7 @@
 <svg  version="1.1" 
       xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink">
-        <text font-size="16" x="10" y="20">
+        <text font-size="16" x="10" y="20" height="300" width="700">
             <tspan fill="red">Generally speaking, it is many years later that people appreciate their education.</tspan>,
             <tspan fill="gray" x="10" dy="15">For example, people who can read might have found it boring to learn this skill when they were children. </tspan>
             <tspan fill="gray" x="10" dy="15">Also, we cannot be sure of the future benefits of studying certains subjects. </tspan>
