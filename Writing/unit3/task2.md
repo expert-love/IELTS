@@ -136,6 +136,10 @@ Gray: SUpporting Sentence
 ![Alt text](https://raw.githubusercontent.com/monpeco/IELTS/master/Writing/unit3/TopicSentence.svg)
 <img src="https://raw.githubusercontent.com/monpeco/IELTS/master/Writing/unit3/TopicSentence.svg">
 
+![Alt text](https://rawgit.com/monpeco/IELTS/master/Writing/unit3/TopicSentence.svg)
+<img src="https://rawgit.com/monpeco/IELTS/master/Writing/unit3/TopicSentence.svg">
+
+
 See also: 
     Linking expression
 
