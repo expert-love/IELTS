@@ -127,7 +127,6 @@ Gray: SUpporting Sentence
 -Red: Concluding Sentence
 ```
 
-![Alt text](https://rawgit.com/monpeco/IELTS/master/Writing/unit3/TopicSentence.svg)
 <img src="https://rawgit.com/monpeco/IELTS/master/Writing/unit3/TopicSentence.svg">
 
 
