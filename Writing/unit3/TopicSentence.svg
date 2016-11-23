@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg  xmlns="http://www.w3.org/2000/svg"
+<svg  version="1.1" 
+      xmlns="http://www.w3.org/2000/svg"
       xmlns:xlink="http://www.w3.org/1999/xlink">
-        <tspan fill="red">Generally speaking, it is many years later that people appreciate their education.</tspan>,
-        <tspan fill="gray" x="10" dy="15">For example, people who can read might have found it boring to learn this skill when they were children. </tspan>
-        <tspan fill="gray" x="10" dy="15">Also, we cannot be sure of the future benefits of studying certains subjects. </tspan>
-        <tspan fill="gray" x="10" dy="15">In my case, I regretted not having studied some natural science in high school after I realised</tspan>
-        <tspan fill="gray" x="10" dy="15">that I would have to study statistics and mathematics ar university.</tspan>
-        <tspan fill="green" x="10" dy="15">Therefore, it is often later in life that the importance of a good education is realised.</tspan>
+        <text font-size="16" x="60" y="120">
+            <tspan fill="red">Generally speaking, it is many years later that people appreciate their education.</tspan>,
+            <tspan fill="gray" x="10" dy="15">For example, people who can read might have found it boring to learn this skill when they were children. </tspan>
+            <tspan fill="gray" x="10" dy="15">Also, we cannot be sure of the future benefits of studying certains subjects. </tspan>
+            <tspan fill="gray" x="10" dy="15">In my case, I regretted not having studied some natural science in high school after I realised</tspan>
+            <tspan fill="gray" x="10" dy="15">that I would have to study statistics and mathematics ar university.</tspan>
+            <tspan fill="green" x="10" dy="15">Therefore, it is often later in life that the importance of a good education is realised.</tspan>
+        </text>
 </svg>
