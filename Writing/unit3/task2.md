@@ -126,15 +126,6 @@ that I would have to study statistics and mathematics ar university.
 Gray: SUpporting Sentence
 -Red: Concluding Sentence
 ```
-<a><img src="https://github.com/monpeco/IELTS/blob/master/Writing/unit3/TopicSentence.svg"/></a>
-
-<a><img src="https://raw.githubusercontent.com/monpeco/IELTS/master/Writing/unit3/TopicSentence.svg"/></a>
-
-![Alt text](https://rawgithub.com/potherca/StackOverflow/gh-pages/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg)
-<img src="https://rawgithub.com/potherca/StackOverflow/gh-pages/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg">
-
-![Alt text](https://raw.githubusercontent.com/monpeco/IELTS/master/Writing/unit3/TopicSentence.svg)
-<img src="https://raw.githubusercontent.com/monpeco/IELTS/master/Writing/unit3/TopicSentence.svg">
 
 ![Alt text](https://rawgit.com/monpeco/IELTS/master/Writing/unit3/TopicSentence.svg)
 <img src="https://rawgit.com/monpeco/IELTS/master/Writing/unit3/TopicSentence.svg">
