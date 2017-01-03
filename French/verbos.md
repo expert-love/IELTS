@@ -1,8 +1,6 @@
-|             |          Grouping           ||
-First Header  | Second Header | Third Header |
- ------------ | :-----------: | -----------: |
-Content       |          *Long Cell*        ||
-Content       |   **Cell**    |         Cell |
+| Idioma Extranjero <br /> verbes | Pronunciacion <br /> vejrbes | Idioma Natal <br /> Verbos | Asociación |
+|:-----------------:|:-------------:|:------------:|------------|
+| être              | etjre         | Ser          | __SER__ *ejectado* de un avión |
+| être              | etjre         | Estar        |            |
 
-New section   |     More      |         Data |
-And more      | With an escaped '\|'         ||  
+		
