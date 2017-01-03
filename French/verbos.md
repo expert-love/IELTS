@@ -1,6 +1,8 @@
-| Idioma Extranjero | Pronunciacion | Idioma Natal | Asociación |
-| verbes            | vejrbes       | Verbos       |            |
-|:-----------------:|:-------------:|:------------:|------------|
-| être              | etjre         | Ser          |            |
-| être              | etjre         | Estar        |            |
+|             |          Grouping           ||
+First Header  | Second Header | Third Header |
+ ------------ | :-----------: | -----------: |
+Content       |          *Long Cell*        ||
+Content       |   **Cell**    |         Cell |
 
+New section   |     More      |         Data |
+And more      | With an escaped '\|'         ||  
