@@ -5,6 +5,5 @@
 | il y a            | ilia          | Hay          | __hay__ un ilia kuriaki and the valderramas |
 | vouloir           | vuluarj       | Querer       | las aves van a __querer__ _*volar*_ |
 | desirer           | desire        | Desear       | Bod Dylan __desea__ a _*Desire*_ (17mo album)|
-| aimer             | emejr         | Amar         | Amar a "M" (James Bond) |
-
-			
+| aimer             | emejr         | Amar / Gustar | __GUSTAV GUSTAV__ Y __AMANDA__ aman a "M" (James Bond) |
+| aider             | edejr         | Ayudar       | __AYUDA__ a _*Eddert*_ |
