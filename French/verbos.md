@@ -7,3 +7,5 @@
 | desirer           | desire        | Desear       | Bod Dylan __desea__ a _*Desire*_ (17mo album)|
 | aimer             | emejr         | Amar / Gustar | __GUSTAV GUSTAV__ Y __AMANDA__ aman a "M" (James Bond) |
 | aider             | edejr         | Ayudar       | __AYUDA__ a _*Eddert*_ |
+| tenter            | t(ea)ntejr    | Intentar     | __INTENTAR__ como una tonta la tia |
+			-
