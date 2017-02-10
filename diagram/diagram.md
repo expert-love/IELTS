@@ -1,5 +1,9 @@
 ##Esquema de envio
 
+<kbd>  es DTE?  </kbd>  
+&uarr;  
+<kbd>  dbq_scan_arch  </kbd>  
+&uarr;  
 <kbd>DBQ_ARCH_CLOB</kbd> <kbd>DBQ_ARCH</kbd>  
       &uarr;    &uarr;  
 <kbd> dbq_regi_arch </kbd>  
