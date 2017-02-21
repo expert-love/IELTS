@@ -12,5 +12,7 @@
 | demander          | demandejr     | Pedir        | __PEDIR__ que _*demanden*_ a los _*demas*_ |
 | nécessiter        | necesitejr    | Necesitar    | __NECESITAR__ un _*neceser*_ para _*nelson*_ |
 | habiter           | habite        | Vivir        | El hobbit __VIVIR__ en su _*habitat*_ natural |
-
-		 
+| naître            | netjre        | Nacer        | No se puede __NACER__  _*Nebraska*_  |
+| grandir           | gjrandijr     | Crecer       | Van a __CRECER__ las _*Granadinas*_ muy _*Grandes*_ |
+		
+		
