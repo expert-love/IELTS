@@ -8,3 +8,7 @@
 | aimer             | emejr         | Amar / Gustar | __GUSTAV GUSTAV__ Y __AMANDA__ aman a "M" (James Bond) |
 | aider             | edejr         | Ayudar       | __AYUDA__ a _*Eddert*_ |
 | tenter            | t(ea)ntejr    | Intentar     | __INTENTAR__ como una tonta la tia |
+| parvenir          | pajrvenijr    | Conseguir    | __CONSEGUIR__ una parbula |
+| demander          | demandejr     | Pedir        | __PEDIR__ que demanden a los demas |
+
+				
