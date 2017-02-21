@@ -7,8 +7,10 @@
 | desirer           | desire        | Desear       | Bod Dylan __desea__ a _*Desire*_ (17mo album)|
 | aimer             | emejr         | Amar / Gustar | __GUSTAV GUSTAV__ Y __AMANDA__ aman a "M" (James Bond) |
 | aider             | edejr         | Ayudar       | __AYUDA__ a _*Eddert*_ |
-| tenter            | t(ea)ntejr    | Intentar     | __INTENTAR__ como una tonta la tia |
-| parvenir          | pajrvenijr    | Conseguir    | __CONSEGUIR__ una parbula |
-| demander          | demandejr     | Pedir        | __PEDIR__ que demanden a los demas |
+| tenter            | t(ea)ntejr    | Intentar     | __INTENTAR__ como una _*tonta*_ la _*tia*_ |
+| parvenir          | pajrvenijr    | Conseguir    | __CONSEGUIR__ una _*parbula*_ |
+| demander          | demandejr     | Pedir        | __PEDIR__ que _*demanden*_ a los _*demas*_ |
+| nécessiter        | necesitejr    | Necesitar    | __NECESITAR__ un _*neceser*_ para _*nelson*_ |
+| habiter           | habite        | Vivir        | El hobbit __VIVIR__ en su _*habitat*_ natural |
 
-				
+		 
